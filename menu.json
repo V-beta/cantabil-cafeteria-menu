@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "date": "2026-10-14",
+      "day": "Wednesday",
+      "lunch": [
+        { "name": "Steamed Rice", "image": "" },
+        { "name": "Dal Makhani", "image": "" }
+      ],
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "snacks": [
+        { "name": "Samosa", "image": "" },
+        { "name": "Chai", "image": "" }
+      ],
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "notes": "Veg only"
+    }
+  ]
+}
