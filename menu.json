@@ -40,7 +40,7 @@
       "date": "2026-10-15",
       "day": "Thursday",
       "lunch": [
-        { "name": "Vegetable Pulao", "image": "https://github.com/V-beta/cantabil-cafeteria-menu/blob/main/Vegetable%20Pulao.jpg" },
+        { "name": "Vegetable Pulao", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg" },
         { "name": "Mix Dal", "image": "https://github.com/V-beta/cantabil-cafeteria-menu/blob/main/Mix%20Dal.jpg" },
         { "name": "Palak Paneer", "image": "https://github.com/V-beta/cantabil-cafeteria-menu/blob/main/Palak%20Paneer.jpg" },
         { "name": "Chapati", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Chapati.jpg" },
