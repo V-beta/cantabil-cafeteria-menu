@@ -92,11 +92,11 @@
       "date": "2026-10-18",
       "day": "Sunday",
       "lunch": [
-        { "name": "Week Off", "image": "" }
+        { "name": "Week Off" }
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Bread Pakoda", "image": "" }
+        { "name": "Week Off" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": "Veg only"
