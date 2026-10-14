@@ -75,10 +75,10 @@
       "day": "Saturday",
       "lunch": [
         { "name": "Steamed Rice", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Steamed%20Rice.jpg" },
-        { "name": "Matar Paneer", "image": "" },
-        { "name": "Aloo Gobhi", "image": "" },
+        { "name": "Matar Paneer", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Matar%20Paneer.jpg" },
+        { "name": "Aloo Gobhi", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Aloo%20Gobhi.jpg" },
         { "name": "Chapati", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Chapati.jpg" },
-        { "name": "Pineapple Raita", "image": "" },
+        { "name": "Pineapple Raita", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Pineapple%20Raita.jpg" },
         { "name": "Green Salad", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg" }
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
