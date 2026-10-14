@@ -1,22 +1,118 @@
 {
   "menu": [
     {
-      "date": "2026-10-14",
-      "day": "Wednesday",
+      "date": "2026-10-13",
+      "day": "Monday",
       "lunch": [
-        { "name": "Steamed Rice", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Steamed%20Rice.jpg" },
-        { "name": "Dal Makhani", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Dal%20Makhani.jpg" },
-        { "name": "Matar Aloo", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Matar%20Aloo.jpg" },
-        { "name": "Chapati", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Chapati.jpg" },
-        { "name": "Mix Raita", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Mix%20Raita.jpg" },
-        { "name": "Green Salad", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg" }
+        { "name": "Steamed Rice", "image": "" },
+        { "name": "Dal Fry", "image": "" },
+        { "name": "Aloo Gobi", "image": "" },
+        { "name": "Chapati", "image": "" }
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Samosa", "image": "" }
+        { "name": "Samosa", "image": "" },
+        { "name": "Chai", "image": "" }
+      ],
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "notes": ""
+    },
+    {
+      "date": "2026-10-14",
+      "day": "Tuesday",
+      "lunch": [
+        { "name": "Steamed Rice", "image": "" },
+        { "name": "Dal Makhani", "image": "" },
+        { "name": "Matar Aloo", "image": "" },
+        { "name": "Chapati", "image": "" },
+        { "name": "Mix Raita", "image": "" },
+        { "name": "Green Salad", "image": "" }
+      ],
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "snacks": [
+        { "name": "Samosa", "image": "" },
+        { "name": "Chai", "image": "" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": "Veg only"
+    },
+    {
+      "date": "2026-10-15",
+      "day": "Wednesday",
+      "lunch": [
+        { "name": "Bread Pakoda", "image": "" },
+        { "name": "Aloo Sabzi", "image": "" },
+        { "name": "Chapati", "image": "" }
+      ],
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "snacks": [
+        { "name": "Pakode", "image": "" },
+        { "name": "Tea", "image": "" }
+      ],
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "notes": ""
+    },
+    {
+      "date": "2026-10-16",
+      "day": "Thursday",
+      "lunch": [
+        { "name": "Jeera Rice", "image": "" },
+        { "name": "Rajma", "image": "" },
+        { "name": "Chapati", "image": "" }
+      ],
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "snacks": [
+        { "name": "Vada Pav", "image": "" },
+        { "name": "Chai", "image": "" }
+      ],
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "notes": ""
+    },
+    {
+      "date": "2026-10-17",
+      "day": "Friday",
+      "lunch": [
+        { "name": "Chole", "image": "" },
+        { "name": "Bhature", "image": "" },
+        { "name": "Salad", "image": "" }
+      ],
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "snacks": [
+        { "name": "Pav Bhaji", "image": "" }
+      ],
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "notes": "Special Friday"
+    },
+    {
+      "date": "2026-10-18",
+      "day": "Saturday",
+      "lunch": [
+        { "name": "Veg Pulao", "image": "" },
+        { "name": "Paneer Butter Masala", "image": "" },
+        { "name": "Chapati", "image": "" },
+        { "name": "Raita", "image": "" }
+      ],
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "snacks": [
+        { "name": "Sandwich", "image": "" }
+      ],
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "notes": "Saturday Special"
+    },
+    {
+      "date": "2026-10-19",
+      "day": "Sunday",
+      "lunch": [
+        { "name": "Veg Biryani", "image": "" },
+        { "name": "Raita", "image": "" },
+        { "name": "Papad", "image": "" }
+      ],
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "snacks": [
+        { "name": "Ice Cream", "image": "" }
+      ],
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "notes": "Sunday Special"
     }
   ]
 }
