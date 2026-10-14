@@ -29,8 +29,7 @@
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Samosa", "image": "" },
-        { "name": "Chai", "image": "" }
+        { "name": "Bread Pakoda", "image": "" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": "Veg only"
@@ -45,8 +44,7 @@
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Pakode", "image": "" },
-        { "name": "Tea", "image": "" }
+        { "name": "Pakode", "image": "" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": ""
@@ -61,8 +59,7 @@
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Vada Pav", "image": "" },
-        { "name": "Chai", "image": "" }
+        { "name": "Vada Pav", "image": "" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": ""
