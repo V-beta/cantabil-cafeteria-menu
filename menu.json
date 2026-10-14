@@ -11,8 +11,7 @@
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Samosa", "image": "" },
-        { "name": "Chai", "image": "" }
+        { "name": "Samosa", "image": "" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": ""
