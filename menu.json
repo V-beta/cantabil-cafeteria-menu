@@ -13,7 +13,7 @@
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Samosa", "image": "" }
+        { "name": "Samosa", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Samosa.jpg" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": "Veg only"
@@ -31,7 +31,7 @@
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Bread Pakoda", "image": "" }
+        { "name": "Bread Pakoda", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Bread%20Pakoda.jpg" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": "Veg only"
@@ -49,7 +49,7 @@
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Samosa", "image": "" }
+        { "name": "Samosa", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Samosa.jpg" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": "Veg only"
@@ -65,7 +65,7 @@
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Bread Pakoda", "image": "" }
+        { "name": "Bread Pakoda", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Bread%20Pakoda" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": "Veg only"
@@ -83,7 +83,7 @@
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Samosa", "image": "" }
+        { "name": "Samosa", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Samosa.jpg" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": "Veg only"
