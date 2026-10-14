@@ -2,23 +2,25 @@
   "menu": [
     {
       "date": "2026-10-13",
-      "day": "Monday",
+      "day": "Tuesday",
       "lunch": [
         { "name": "Steamed Rice", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Steamed%20Rice.jpg" },
-        { "name": "Dal Fry", "image": "" },
-        { "name": "Aloo Gobi", "image": "" },
-        { "name": "Chapati", "image": "" }
+        { "name": "Kadhi Pakoda", "image": "" },
+        { "name": "Achari Aloo", "image": "" },
+        { "name": "Chapati", "image": "" },
+        { "name": "Rice Kheer", "image": "" },
+        { "name": "Green Salad", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg" }
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
         { "name": "Samosa", "image": "" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
-      "notes": ""
+      "notes": "Veg only"
     },
     {
       "date": "2026-10-14",
-      "day": "Tuesday",
+      "day": "Wednesday",
       "lunch": [
         { "name": "Steamed Rice", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Steamed%20Rice.jpg" },
         { "name": "Dal Makhani", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Dal%20Makhani.jpg" },
@@ -36,79 +38,68 @@
     },
     {
       "date": "2026-10-15",
-      "day": "Wednesday",
+      "day": "Thursday",
       "lunch": [
-        { "name": "Bread Pakoda", "image": "" },
-        { "name": "Aloo Sabzi", "image": "" },
-        { "name": "Chapati", "image": "" }
+        { "name": "Vegetable Pulao", "image": "" },
+        { "name": "Mix Dal", "image": "" },
+        { "name": "Palak Paneer", "image": "" },
+        { "name": "Chapati", "image": "" },
+        { "name": "Plain Curd", "image": "" },
+        { "name": "Green Salad", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg" }
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Pakode", "image": "" }
+        { "name": "Samosa", "image": "" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
-      "notes": ""
+      "notes": "Veg only"
     },
     {
       "date": "2026-10-16",
-      "day": "Thursday",
+      "day": "Friday",
       "lunch": [
-        { "name": "Jeera Rice", "image": "" },
-        { "name": "Rajma", "image": "" },
-        { "name": "Chapati", "image": "" }
+        { "name": "Pindi Chole", "image": "" },
+        { "name": "Bhatura", "image": "" },
+        { "name": "Boondi Raita", "image": "" },
+        { "name": "Green Salad", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg" }
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Vada Pav", "image": "" }
+        { "name": "Bread Pakoda", "image": "" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
-      "notes": ""
+      "notes": "Veg only"
     },
     {
       "date": "2026-10-17",
-      "day": "Friday",
+      "day": "Saturday",
       "lunch": [
-        { "name": "Chole", "image": "" },
-        { "name": "Bhature", "image": "" },
-        { "name": "Salad", "image": "" }
+        { "name": "Steamed Rice", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Steamed%20Rice.jpg" },
+        { "name": "Matar Paneer", "image": "" },
+        { "name": "Aloo Gobhi", "image": "" },
+        { "name": "Chapati", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Chapati.jpg" },
+        { "name": "Pineapple Raita", "image": "" },
+        { "name": "Green Salad", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg" }
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Pav Bhaji", "image": "" }
+        { "name": "Samosa", "image": "" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
-      "notes": "Special Friday"
+      "notes": "Veg only"
     },
     {
       "date": "2026-10-18",
-      "day": "Saturday",
-      "lunch": [
-        { "name": "Veg Pulao", "image": "" },
-        { "name": "Paneer Butter Masala", "image": "" },
-        { "name": "Chapati", "image": "" },
-        { "name": "Raita", "image": "" }
-      ],
-      "lunchTime": "2:00 PM - 2:30 PM",
-      "snacks": [
-        { "name": "Sandwich", "image": "" }
-      ],
-      "snacksTime": "4:30 PM - 5:00 PM",
-      "notes": "Saturday Special"
-    },
-    {
-      "date": "2026-10-19",
       "day": "Sunday",
       "lunch": [
-        { "name": "Veg Biryani", "image": "" },
-        { "name": "Raita", "image": "" },
-        { "name": "Papad", "image": "" }
+        { "name": "Week Off", "image": "" }
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
       "snacks": [
-        { "name": "Ice Cream", "image": "" }
+        { "name": "Bread Pakoda", "image": "" }
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
-      "notes": "Sunday Special"
+      "notes": "Veg only"
     }
   ]
 }
