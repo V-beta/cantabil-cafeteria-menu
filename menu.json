@@ -58,9 +58,9 @@
       "date": "2026-10-16",
       "day": "Friday",
       "lunch": [
-        { "name": "Pindi Chole", "image": "" },
-        { "name": "Bhatura", "image": "" },
-        { "name": "Boondi Raita", "image": "" },
+        { "name": "Pindi Chole", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Pindi%20Chole.jpg" },
+        { "name": "Bhatura", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Bhatura.jpg" },
+        { "name": "Boondi Raita", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Boondi%20Raita.jpg" },
         { "name": "Green Salad", "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg" }
       ],
       "lunchTime": "2:00 PM - 2:30 PM",
