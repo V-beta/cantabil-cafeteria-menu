@@ -203,29 +203,6 @@
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": "Veg only"
-    },
-    {
-      "lunch": [
-        {
-          "name": "Dal",
-          "image": ""
-        },
-        {
-          "name": "Steamed Rice",
-          "image": ""
-        }
-      ],
-      "day": "Monday",
-      "notes": "",
-      "date": "2026-10-19",
-      "snacksTime": "4:30 PM - 5:00 PM",
-      "snacks": [
-        {
-          "image": "",
-          "name": "Dosa"
-        }
-      ],
-      "lunchTime": "2:00 PM - 2:30 PM"
     }
   ]
 }
