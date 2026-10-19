@@ -322,38 +322,38 @@
       "notes": ""
     },
     {
-      "notes": "",
+      "day": "Thursday",
       "snacks": [],
       "snacksTime": "4:30 PM - 5:00 PM",
-      "lunchTime": "2:00 PM - 2:30 PM",
       "date": "2026-10-22",
-      "day": "Thursday",
+      "notes": "",
       "lunch": [
         {
-          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Mix%20Dal.jpg",
-          "name": "YELLOW DAAL TADKA"
+          "name": "YELLOW DAAL TADKA",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Mix%20Dal.jpg"
         },
         {
-          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Matar%20Paneer.jpg",
-          "name": "MATAR PANEER"
+          "name": "MATAR PANEER",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Matar%20Paneer.jpg"
         },
         {
           "name": "STEAM RICE",
           "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Steamed%20Rice.jpg"
         },
         {
-          "name": "CHAPATI",
-          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Chapati.jpg"
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Chapati.jpg",
+          "name": "CHAPATI"
         },
         {
           "name": "RICE KHEER",
           "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/RICE%20KHEER.jpg"
         },
         {
-          "name": "SALAD",
-          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg"
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg",
+          "name": "SALAD"
         }
-      ]
+      ],
+      "lunchTime": "2:00 PM - 2:30 PM"
     }
   ]
 }
