@@ -380,6 +380,40 @@
       "notes": "",
       "snacks": [],
       "snacksTime": "4:30 PM - 5:00 PM"
+    },
+    {
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "date": "2026-10-24",
+      "lunch": [
+        {
+          "name": "KAALA CHANNA",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/KAALA%20CHANNA.jpg"
+        },
+        {
+          "name": "BAIGUN KA BHARTA",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/BAIGUN%20BHARTA.jpg"
+        },
+        {
+          "name": "VEG BRIYANI",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/VEG%20BRIYANI.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Chapati.jpg",
+          "name": "CHAPATI"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Boondi%20Raita.jpg",
+          "name": "BOONDI RAITA"
+        },
+        {
+          "name": "SALAAD",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg"
+        }
+      ],
+      "day": "Saturday",
+      "snacks": [],
+      "notes": "",
+      "lunchTime": "2:00 PM - 2:30 PM"
     }
   ]
 }
