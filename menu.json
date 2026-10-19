@@ -208,14 +208,15 @@
       "lunchTime": "2:00 PM - 2:30 PM",
       "date": "2026-10-19",
       "snacksTime": "4:30 PM - 5:00 PM",
+      "notes": "",
       "lunch": [
         {
-          "name": "DAAL MAKHANI",
-          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Dal%20Makhani.jpg"
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Dal%20Makhani.jpg",
+          "name": "DAAL MAKHANI"
         },
         {
           "name": "MIX VEG.",
-          "image": ""
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/MIX%20VEG.jpg"
         },
         {
           "name": "MATAR PULAO",
@@ -234,14 +235,13 @@
           "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg"
         }
       ],
-      "notes": "",
+      "day": "Monday",
       "snacks": [
         {
           "image": "",
           "name": "NO SNACKS"
         }
-      ],
-      "day": "Monday"
+      ]
     }
   ]
 }
