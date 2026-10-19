@@ -203,6 +203,45 @@
       ],
       "snacksTime": "4:30 PM - 5:00 PM",
       "notes": "Veg only"
+    },
+    {
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "date": "2026-10-19",
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "lunch": [
+        {
+          "name": "DAAL MAKHANI",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Dal%20Makhani.jpg"
+        },
+        {
+          "name": "MIX VEG.",
+          "image": ""
+        },
+        {
+          "name": "MATAR PULAO",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Steamed%20Rice.jpg"
+        },
+        {
+          "name": "CHAPATI",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Chapati.jpg"
+        },
+        {
+          "name": "BOONDI RAITA",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Boondi%20Raita.jpg"
+        },
+        {
+          "name": "SALAD",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg"
+        }
+      ],
+      "notes": "",
+      "snacks": [
+        {
+          "image": "",
+          "name": "NO SNACKS"
+        }
+      ],
+      "day": "Monday"
     }
   ]
 }
