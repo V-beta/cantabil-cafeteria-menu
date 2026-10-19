@@ -354,6 +354,32 @@
         }
       ],
       "lunchTime": "2:00 PM - 2:30 PM"
+    },
+    {
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "day": "Friday",
+      "date": "2026-10-23",
+      "lunch": [
+        {
+          "name": "CHILLY PANEER",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/CHILLY%20PANEER.jpg"
+        },
+        {
+          "name": "VEG MANCHURIAN",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/VEG%20MANCHURIAN.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/FRIED%20RICE.jpg",
+          "name": "FRIED RICE"
+        },
+        {
+          "name": "HAKKA NOODLES",
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/HAKKA%20NOODLES.jpg"
+        }
+      ],
+      "notes": "",
+      "snacks": [],
+      "snacksTime": "4:30 PM - 5:00 PM"
     }
   ]
 }
