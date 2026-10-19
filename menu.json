@@ -417,9 +417,10 @@
     },
     {
       "snacksTime": "4:30 PM - 5:00 PM",
-      "day": "Sunday",
+      "date": "2026-10-25",
       "lunchTime": "2:00 PM - 2:30 PM",
       "notes": "",
+      "day": "Sunday",
       "lunch": [
         {
           "name": "WEEK OFF",
@@ -431,8 +432,7 @@
           "image": "",
           "name": "WEEK OFF"
         }
-      ],
-      "date": "2026-10-25"
+      ]
     }
   ]
 }
