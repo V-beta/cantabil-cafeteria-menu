@@ -283,6 +283,9 @@
       ]
     },
     {
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "date": "2026-10-21",
       "lunch": [
         {
           "name": "KADI PAKODA",
@@ -297,29 +300,26 @@
           "name": "STEAM RICE"
         },
         {
-          "name": "CHAPATI",
-          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Chapati.jpg"
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Chapati.jpg",
+          "name": "CHAPATI"
         },
         {
-          "name": "SEVIYAN",
-          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/SEVIYAN.jpg"
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/SEVIYAN.jpg",
+          "name": "SEVIYAN"
         },
         {
-          "name": "SALAD",
-          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg"
+          "image": "https://raw.githubusercontent.com/V-beta/cantabil-cafeteria-menu/main/Green%20Salad.jpg",
+          "name": "SALAD"
         }
       ],
-      "snacksTime": "4:30 PM - 5:00 PM",
+      "day": "Wednesday",
       "snacks": [
         {
           "name": "YET TO DISCLOUSED",
           "image": ""
         }
       ],
-      "date": "2026-10-21",
-      "notes": "",
-      "lunchTime": "2:00 PM - 2:30 PM",
-      "day": "Wednesday"
+      "notes": ""
     }
   ]
 }
