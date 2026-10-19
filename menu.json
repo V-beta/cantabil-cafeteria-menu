@@ -414,6 +414,25 @@
       "snacks": [],
       "notes": "",
       "lunchTime": "2:00 PM - 2:30 PM"
+    },
+    {
+      "snacksTime": "4:30 PM - 5:00 PM",
+      "day": "Sunday",
+      "lunchTime": "2:00 PM - 2:30 PM",
+      "notes": "",
+      "lunch": [
+        {
+          "name": "WEEK OFF",
+          "image": ""
+        }
+      ],
+      "snacks": [
+        {
+          "image": "",
+          "name": "WEEK OFF"
+        }
+      ],
+      "date": "2026-10-25"
     }
   ]
 }
